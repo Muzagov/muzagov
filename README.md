@@ -6,9 +6,9 @@
 
 ### Мои навыки
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-FF0?style=for-the-badge&logo=JavaScript&logocolor=E9D54D)
-![React](https://img.shields.io/badge/-React-FF0?style=for-the-badge&logo=React&logocolor=E9D54D)
-![Redux](https://img.shields.io/badge/-Redux-FF0?style=for-the-badge&logo=Redux&logocolor=E9D54D)
+![JavaScript](https://img.shields.io/badge/-JavaScript-FF0000?style=for-the-badge&logo=JavaScript&logocolor=E9D54D)
+![React](https://img.shields.io/badge/-React-FF0000?style=for-the-badge&logo=React&logocolor=E9D54D)
+![Redux](https://img.shields.io/badge/-Redux-FF0000?style=for-the-badge&logo=Redux&logocolor=E9D54D)
 ![React-Router](https://img.shields.io/badge/React_Router-FF0?style=for-the-badge&logo=react-router)
 ![Redux-Thunk](https://img.shields.io/badge/Redux--Thunk-FF0?style=for-the-badge&logo=redux-thunk)
 ![ReduxLogger](https://img.shields.io/badge/-Redux_Logger-FF0?style=for-the-badge&logo=reduxLogger&logocolor=E9D54D)
