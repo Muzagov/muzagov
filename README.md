@@ -1,4 +1,4 @@
-![Header](https://github.com/musovvir/musovvir/blob/main/assets/header.png)
+
 
 ## Добро пожаловать на мой профиль!
 
@@ -14,7 +14,7 @@
 ![ReduxLogger](https://img.shields.io/badge/-Redux_Logger-ff0?style=for-the-badge&logo=reduxLogger&logocolor=E9D54D)
 ![Angular](https://img.shields.io/badge/Angular-ff0?style=for-the-badge&logo=angular)
 ![StencilJs](https://img.shields.io/badge/Stencil_Js-ff0?style=for-the-badge&logo=ionic)
-![Git](https://img.shields.io/badge/Git-266132?style=for-the-badge&logo=git)
+![Git](https://img.shields.io/badge/Git-ff0?style=for-the-badge&logo=git)
 ![MaterialUI](https://img.shields.io/badge/-Material_UI-ff0?style=for-the-badge&logo=MaterialUI&logocolor=E9D54D)
 ![ANTDesign](https://img.shields.io/badge/-ANT_Design-ff0?style=for-the-badge&logo=antDesign&logocolor=E9D54D)
 ![Firebase](https://img.shields.io/badge/-Firebase-ff0?style=for-the-badge&logo=Firebase&logocolor=E9D54D)
