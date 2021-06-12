@@ -27,7 +27,7 @@
 ### Примеры моих работ
 
 - Лента на подобии ленты ВКонтакте [код](https://github.com/musovvir/team-app) | [demo](Комадная работа)
-- Десктопный чат [код](https://github.com/Muzagov/desktop-chat) | [demo]()
+- Десктопный чат [код](https://github.com/Muzagov/chat-redux) | [demo]()
 
 ### Я в соц. сетях
 [![VK](https://img.shields.io/badge/VK-red?style=social&logo=vk)](https://vk.com/musovvir)
